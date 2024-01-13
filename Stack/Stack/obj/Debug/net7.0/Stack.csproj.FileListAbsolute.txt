@@ -1,0 +1,14 @@
+E:\CV\C# implementaion\Stack\Stack\bin\Debug\net7.0\Stack.exe
+E:\CV\C# implementaion\Stack\Stack\bin\Debug\net7.0\Stack.deps.json
+E:\CV\C# implementaion\Stack\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+E:\CV\C# implementaion\Stack\Stack\bin\Debug\net7.0\Stack.dll
+E:\CV\C# implementaion\Stack\Stack\bin\Debug\net7.0\Stack.pdb
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\Stack.dll
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\refint\Stack.dll
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\Stack.pdb
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+E:\CV\C# implementaion\Stack\Stack\obj\Debug\net7.0\ref\Stack.dll
