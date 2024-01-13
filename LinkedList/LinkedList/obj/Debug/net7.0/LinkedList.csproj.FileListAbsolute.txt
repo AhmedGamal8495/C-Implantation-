@@ -1,0 +1,14 @@
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.exe
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.deps.json
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.runtimeconfig.json
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.dll
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.pdb
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfoInputs.cache
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfo.cs
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.dll
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\refint\LinkedList.dll
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.pdb
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.genruntimeconfig.cache
+E:\CV\C# implementaion\CSharp\LinkedList\LinkedList\obj\Debug\net7.0\ref\LinkedList.dll
